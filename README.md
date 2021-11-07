@@ -1,9 +1,10 @@
 # Algorithm
 
-## Python
+## Python, Java
 
 - [CodeUp](https://codeup.kr/)
 - [BaekJoon](https://www.acmicpc.net/)
+- [solved.ac](https://solved.ac)
 - [Programmers](https://programmers.co.kr/)
 - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 - [HackerRank](https://www.hackerrank.com/dashboard)
