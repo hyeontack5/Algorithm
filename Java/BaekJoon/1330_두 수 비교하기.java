@@ -7,16 +7,16 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
+        br.close();
+
         int a = Integer.parseInt(st.nextToken());
         int b = Integer.parseInt(st.nextToken());
 
         if (a > b) {
             System.out.println(">");
-        }
-        if (a < b) {
+        } else if (a < b) {
             System.out.println("<");
-        }
-        if (a == b) {
+        } else {
             System.out.println("==");
         }
     }
